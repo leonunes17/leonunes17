@@ -1,4 +1,4 @@
-### Olá, eu sou o Leonam Nunes!
+### Olá, eu sou Leonam Nunes!
 
 - HTML
 - CSS
