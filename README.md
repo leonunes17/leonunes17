@@ -4,7 +4,6 @@
 - CSS
 - C
 
-🔸 Além dessas linguagens estou iniciando os estudos em Java e JavaScrpit e posteriormente Noje.js.
 
 <div align="center">
   <a href="https://github.com/leonunes17">
