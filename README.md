@@ -1,5 +1,7 @@
-### Olá, eu sou Leonam Nunes!
+### Leonam Nunes!
 
+- PYTHON
+- SQL
 - HTML
 - CSS
 - C
