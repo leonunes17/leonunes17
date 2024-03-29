@@ -1,12 +1,4 @@
-### Leonam Nunes!
-
-- PYTHON
-- SQL
-- HTML
-- CSS
-- JAVASCRIPT
-- C
-
+### Leonam Nunes
 
 <div align="center">
   <a href="https://github.com/leonunes17">
